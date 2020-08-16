@@ -1,4 +1,4 @@
-#i dont know. i missed some logic there. if anyone find implement it
+#i dont know. i missed some logic there. if anyone found tat implement it
 def lststr(m):
     str1 = ""
     for ele in m:
